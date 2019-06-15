@@ -12,11 +12,15 @@
 ## 知识思维导图架构 ——————思维导图禁止转载，如有转载，请备注直接出处。
 
  - 思维导图部分会以**图片和文件**的形式呈现，图片内容直接点击图片即可下载，而文件内容格式为**xx.Xmind** 所以要保证你电脑上**是否安装Xmind思维导图软件**，直接Download之后打开文件即可。
+ 
+ ## 注意：由于文件过大，会出现GitHub上没办法直接预览，建议大家直接下载浏览更佳。图片的放大倍数50 ~ 65%之间最佳哦。
 
 ### 计算机网络 
-  [[图片]()]
+
+#### 第一章 计算机网络体系概述
+  [[图片](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.png)]
   
-  [[Xmind文件]()]
+  [[Xmind文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.xmind)]
 
 #### 操作系统
   [[图片]()]
