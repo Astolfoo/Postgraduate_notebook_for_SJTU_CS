@@ -84,4 +84,8 @@
 
 <img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" width = "300" height = "400" div align=center /> <img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E5%BE%AE%E4%BF%A1.png" width = "300" height = "400" div align=center />
 
-### 最后，衷心感谢大家的支持和鼓励啦~~~ ，未来大家一起去进步，一起去让自己更好而努力哦！
+### 衷心感谢大家的支持和鼓励啦~~~ ，未来大家一起去进步，一起去让自己更好而努力哦！
+
+### 也欢迎大家和我一起交流哦，新建了一个专属于技术方面共同交流和学习的微信：Solerho。
+
+<img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E7%A7%81%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg" width = "300" height = "400" div align=center /> 
