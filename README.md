@@ -87,18 +87,14 @@
 
 #### 感谢你能够注意到这里，如果我的内容对你有用，是我的荣幸。
 
-## 关于赞赏
+## 关于防骗
 
 #### 对于文章和内容不做费用收取机制，切勿相信资料是独家整理名义售卖。
 
 #### 大家也要注意防骗哦！！！本人不会以个人名义向大家索要费用等，所以一定要注意防骗。
 
-####  如果你愿意对我的内容进行支持和鼓励，我的赞赏码如下：
-
-<img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" width = "300" height = "400" div align=center /> <img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E5%BE%AE%E4%BF%A1.png" width = "300" height = "400" div align=center />
 
 ### 衷心感谢大家的支持和鼓励啦~~~ ，未来大家一起去进步，一起去让自己变得更好而努力哦！
 
 ### 也欢迎大家和我一起交流哦，新建了一个专属于技术方面共同交流和学习的微信：Solerho。
 
-<img src="https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Images/%E7%A7%81%E4%BA%BA%E5%BE%AE%E4%BF%A1.jpeg" width = "300" height = "400" div align=center /> 
