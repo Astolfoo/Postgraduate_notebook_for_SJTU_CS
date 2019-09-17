@@ -12,7 +12,7 @@
 
 ## PPBook
 ### 什么是PPBook？
-`PPBook`是 `Postgraduate Practice Book`的缩写， 旨在自己练习考研题目练习的平台工具 ，无商业化模式的平台工具。
+`PPBook`是 `Postgraduate Practice Book`的缩写， 旨在自己练习考研题目和无商业化模式的平台工具。
 
 ### 具体使用时间？
 时间待定～～～
