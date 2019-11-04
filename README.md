@@ -10,12 +10,6 @@
 **禁止用作商业用途，仅用作学习交流，如有转载或者是其他需求，请联系邮箱：launolife@aliyun.com**
 
 
-## PPBook
-### 什么是PPBook？
-`PPBook`是 `Postgraduate Practice Book`的缩写， 旨在方便练习考研题目，一个商业模式的平台小程序平台，具体更新时间会直接更新备注，敬请期待～～～。
-
-
-
 ## 知识思维导图架构 ——————思维导图禁止转载，如有转载，请备注直接出处。
 
  - 思维导图部分会以**图片和文件**的形式呈现，图片内容直接点击图片即可下载，而文件内容格式为**xx.Xmind** 所以要保证你电脑上**是否安装Xmind思维导图软件**，直接Download之后打开文件即可。
@@ -24,17 +18,10 @@
 
 ### 计算机网络 
 
-[[所有文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Computer_Network/MindMap)]
+|章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|One|计算机网络体系概述|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.xmind)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.png)】|Two|物理层|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.png)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.xmind)】|
 
-#### 第一章 计算机网络体系概述
-  [[图片](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.png)]
-  
-  [[Xmind文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.xmind)]
-
-#### 第二章 物理层
- [[图片](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.png)]
- 
- [[Xmind文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.xmind)]
 
 
 ### 操作系统
@@ -47,13 +34,9 @@
   [[Xmind文件]()]
 ### 数据结构与算法
 
-[[所有文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Data_Structures_and_Algorithms/MindMap)]
-
-#### 第一章 绪论
-
-  [[图片](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.png)]
-  
-  [[Xmind文件](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.xmind)]
+|章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|One|绪论|[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.png)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.xmind)】|
 
 ## 参考书籍：
 
