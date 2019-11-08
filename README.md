@@ -38,6 +38,13 @@
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |One|绪论|[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.png)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Data_Structures_and_Algorithms/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E7%BB%AA%E8%AE%BA.xmind)】|
 
+## PPT课件
+|教材科目|操作系统|计算机组成原理|计算机网络|数据结构与算法|
+|:--:|:--:|:--:|:--:|:--:|
+|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Operating_System/Study_PPT)】|【Download】|【Download】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Computer_Network/Study_PPT)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Data_Structures_and_Algorithms/Study_PPT)】|
+
+
+
 ## 参考书籍：
 
   - 计算机网络
