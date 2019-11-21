@@ -29,9 +29,10 @@
   
   [[Xmind文件]()]
 ### 计算机组成原理
-  [[图片]()]
-  
-  [[Xmind文件]()]
+|章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|ONE|计算机发展历程|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.xmind)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E6%A6%82%E8%BF%B0.png)】|TWO|计算机系统概论|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.xmind)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/blob/master/Computer_Network/MindMap/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E7%89%A9%E7%90%86%E5%B1%82.png)】|
+
 ### 数据结构与算法
 
 |章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
