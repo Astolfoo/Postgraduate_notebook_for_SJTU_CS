@@ -25,9 +25,10 @@
 
 
 ### 操作系统
-  [[图片]()]
+|章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|ONE||【[Download]()】|【[Download]()】|TWO||【[Download]()】|【[Download]()】|
   
-  [[Xmind文件]()]
 ### 计算机组成原理
 |章节|章节名称|Xmind文件|图片文件|章节|章节名称|Xmind文件|图片文件|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -44,9 +45,15 @@
 |:--:|:--:|:--:|:--:|:--:|
 ||【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Operating_System/Study_PPT)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Computer_Organization/Study_PPT)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Computer_Network/Study_PPT)】|【[Download](https://github.com/SolerHo/Postgraduate_notebook_for_SJTU_CS/tree/master/Data_Structures_and_Algorithms/Study_PPT)】|
 
+## 408官方参考书籍
+ - 计算机网络 谢希仁 第六版 
+ - 计算机操作系统 第三版  汤小丹 汤子瀛
+ - 计算机组成原理（第2版）唐朔飞版
+ - 数据结构（C语言）严蔚敏
+ - 算法设计技巧与分析 沙特 M.H.Alsuwaiyel
 
 
-## 参考书籍：
+## 本仓库参考书籍：
 
   - 计算机网络
   
